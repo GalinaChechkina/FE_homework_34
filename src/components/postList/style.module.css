@@ -1,0 +1,13 @@
+.list{
+    width: 700px;
+    font-style: italic;
+    padding: 30px;
+    color: rgb(227, 41, 134);
+    border: 1px solid;
+    background-color: rgba(245, 53, 149, 0.3);
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px;
+}
+.list h2{
+    margin: 20px;
+}
